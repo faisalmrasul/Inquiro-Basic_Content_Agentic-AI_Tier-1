@@ -1,6 +1,7 @@
 # Basic Content Agent AI
 
 A sophisticated **agentic AI workflow** built with n8n featuring memory, tool use, intelligent routing, self-critique, and professional email delivery.
+<img width="1114" height="430" alt="From Theory to Practice My First Journey into Agentic AI" src="https://github.com/user-attachments/assets/98161487-b112-4255-8b2a-1fd6a4a0ddb0" />
 
 ## ✨ Features
 
